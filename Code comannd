@@ -34,4 +34,4 @@ client.on('guildMemberAdd', member => {
 });
 
 // Log in to Discord with your app's token
-client.login('YOUR_BOT_TOKEN');
+client.login('MTQ3Njk4NzlwMTc3MzYzNzcwMw.GdM_e-J.GtZIYXxFi39Cs301RhyMjiLNdTAuAsOla-NkXko);
